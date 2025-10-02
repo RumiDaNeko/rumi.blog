@@ -8,18 +8,18 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "yCENzh's Blog",
-	subtitle: "爱你所爱~",
+	title: "rumi's Blog",
+	subtitle: "neko~",
 	themeColor: {
 		hue: 275, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
 		fixed: false, // Hide the theme color picker for visitors
 	},
 	banner: {
 		enable: true,
-		src: "/Celestia.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "assets/images/rumi_banner.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
-			enable: true, // Display the credit text of the banner image
+			enable: false, // Display the credit text of the banner image
 			text: "Pixiv @chokei", // Credit text to be displayed
 			url: "https://www.pixiv.net/artworks/122782209", // (Optional) URL link to the original artwork or artist's page
 		},
@@ -30,7 +30,7 @@ export const siteConfig: SiteConfig = {
 	},
 	favicon: [
 		   {
-		     src: '/favicon/icon.webp',
+		     src: 'assets/images/rumi.jpg',
 		//   theme: 'light',
 		//   sizes: '32x32',
 		   }
@@ -44,23 +44,18 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Series,
 		LinkPreset.About,
 		LinkPreset.Friends,
-		/*{
-			name: "GitHub",
-			url: "https://github.com/yCENzh", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
-		},*/
 		{
-			name: "开往",
-			url: "https://www.travellings.cn/train.html",
-			external: true,
+			name: "Cloudcode",
+			url: "https://discord.gg/U7aFkZWk74", // Internal links should not include the base path, as it is automatically added
+			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "/avatar.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/' 原assets/images/demo-avatar.png,可选https://q2.qlogo.cn/headimg_dl?dst_uin=189563385&spec=0
-	name: "yCENzh",
-	bio: "Protect What You Love./爱你所爱！",
+	avatar: "assets/images/rumi.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/' 原assets/images/demo-avatar.png,可选https://q2.qlogo.cn/headimg_dl?dst_uin=189563385&spec=0
+	name: "rumi",
+	bio: "Dominate what stop you! kawaiii~",
 	links: [
 		/*{
 			name: "Twitter",
@@ -77,7 +72,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/yCENzh",
+			url: "https://github.com/RumiDaNeko",
 		},
 		{
 			name: "Telegram",
@@ -85,7 +80,7 @@ export const profileConfig: ProfileConfig = {
 			url: "https://t.me/yCENzh",
 		},
 		{
-			name: "开往",
+			name: "Cloudcode",
 			icon: "fa6-solid:train-subway",
 			url: "https://www.travellings.cn/train.html",
 		},
