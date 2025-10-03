@@ -18,7 +18,9 @@ Cài nó để hoàn thành được mấy quest cần chơi game!!!
 *Note: nếu dùng discord bản stable (logo màu blurple) thì cần phải làm thêm những thao tác sau:
 <detail>
  <summary> Nhấn vào để mở rộng</summary>
- B1.1: mở `%appdata%/discord/settings.json`
+ B1.1: mở `
+ %appdata%/discord/settings.json
+ `
  B1.2: thêm `"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,` vào một entry trong bảng json
  B1.3: Đóng vả khởi động lại discord
  </detail>
@@ -26,6 +28,7 @@ Cài nó để hoàn thành được mấy quest cần chơi game!!!
  <detail>
     <summary> Nhấn vào để mở rộng</summary>
    ```js
+	 
   delete window.$;
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
 webpackChunkdiscord_app.pop();
