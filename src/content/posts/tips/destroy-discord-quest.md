@@ -26,7 +26,9 @@ Cài nó để hoàn thành được mấy quest cần chơi game!!! <br/>
  B1.3: Đóng vả khởi động lại discord <br/>
  </details>
 <br/>
+
 ## B2: Mở Console bằng cách nhấn CTRL + SHIFT + I (hoặc F12 trên trình duyệt) và thêm doạn code sau:
+
  <details>
     <summary> Nhấn vào để mở rộng</summary>
 	
