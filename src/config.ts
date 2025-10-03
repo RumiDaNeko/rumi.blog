@@ -81,8 +81,8 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "Cloudcode",
-			icon: "fa6-solid:train-subway",
-			url: "https://www.travellings.cn/train.html",
+			icon: "fa6-solid:server",
+			url: "https://discord.gg/U7aFkZWk74",
 		},
 	],
 };
