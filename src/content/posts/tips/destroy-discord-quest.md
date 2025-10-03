@@ -2,7 +2,7 @@
 title: Hủy diệt quest trong discord mà không cần làm gì?
 published: 2025-10-03
 description: cách để ngồi không cũng xong quest :))
-image: "https://cdn.discordapp.com/attachments/1268895412266340394/1423556861105275042/Screenshot_20251003_125024_Discord.jpg?ex=68e0be24&is=68df6ca4&hm=c3c5771ea8a4ff1b1bab5458427b0d60877cd34fc64e1897b84b4e38c257cc96&"
+image: "https://cdn.discordapp.com/attachments/1268895412266340394/1423571276449976441/1.jpg?ex=68e0cb90&is=68df7a10&hm=338c67562420dcdb2d5e22d668c416c5acd5dc03af5fd459e2fe8ff48e5483bb&"
 tags: [tricks, rumi, tips, discord]
 category: tips
 draft: false
