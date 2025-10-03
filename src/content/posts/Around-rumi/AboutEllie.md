@@ -8,16 +8,7 @@ category: around-rumi
 draft: false
 series: N2025
 ---
-# Về Enhì
+# Về Ellie
 
-name: enhì <br/>
-age:......
-
-
-
-
-
-
-
-enhì, was here.......
-![blood](https://github.com/user-attachments/assets/083f7978-85d7-4319-ac6c-9ae5f4f95be4)
+Nói thẳng luôn, từ "hãm Lòn" không thể nào đủ để miêu tả, mới nói có 1 - 2 câu thì block, xóa sạch tin nhắn. né bố nó đi cho lành.
+Khôn thì khôn đấy, nhưng mà eq thua con bò + con lợn kết hợp lại. tôi nói luôn, ng.u dell tả nổi. thôi không toxic nx hứa
