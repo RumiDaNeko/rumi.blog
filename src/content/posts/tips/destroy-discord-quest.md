@@ -15,7 +15,7 @@ Việc làm quest trong discord khá là tốn thời gian, nên sau 10p mày m�
 Vào việc luôn này:
 
 
-B1: Cài đặt discord trên máy tính <br/>
+## B1: Cài đặt discord trên máy tính <br/>
 Cài nó để hoàn thành được mấy quest cần chơi game!!! <br/>
 *Note: nếu dùng discord bản stable (logo màu blurple) thì cần phải làm thêm những thao tác sau: <br/>
 <details>
@@ -26,7 +26,7 @@ Cài nó để hoàn thành được mấy quest cần chơi game!!! <br/>
  B1.3: Đóng vả khởi động lại discord <br/>
  </details>
 <br/>
- B2: Mở Console bằng cách nhấn CTRL + SHIFT + I (hoặc F12 trên trình duyệt) và thêm doạn code sau:
+## B2: Mở Console bằng cách nhấn CTRL + SHIFT + I (hoặc F12 trên trình duyệt) và thêm doạn code sau:
  <details>
     <summary> Nhấn vào để mở rộng</summary>
 	
@@ -189,5 +189,10 @@ Cài nó để hoàn thành được mấy quest cần chơi game!!! <br/>
  </details>
 * Phần lớn sẽ không cho chúng ta paste, nên phải nhập `allow pasting` trước khi copy paste
 * Nhớ nhận quest :)
+
+## thành quả:
+
+<img width="1287" height="721" alt="result" src="https://github.com/user-attachments/assets/009d9ea1-6912-4167-a7ef-f55b2498538c" />
+
 
 Và Thế là xong, nhớ sử dụng cẩn thận không bị ban acc :)))
