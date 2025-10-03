@@ -114,7 +114,7 @@ onMount(async () => {
                 
                 <!-- 文章数量统计 -->
                 <div class="w-[70%] md:w-[80%] transition text-left text-50">
-                    {group.posts.length} 篇文章
+                    {group.posts.length} Posts
                 </div>
             </div>
 
