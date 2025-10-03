@@ -2,7 +2,7 @@
 title: Ellie?
 published: 2025-10-03
 description: enhì?
-image: "https://cdn.discordapp.com/attachments/1268895412266340394/1423556861105275042/Screenshot_20251003_125024_Discord.jpg?ex=68e0be24&is=68df6ca4&hm=c3c5771ea8a4ff1b1bab5458427b0d60877cd34fc64e1897b84b4e38c257cc96&"
+image: "https://cdn.discordapp.com/attachments/878276279105884210/1423243282724421673/tenor.gif?ex=68e042d9&is=68def159&hm=0a80d271e1602239ed0acedba5e53adc424265088ff135a49c9013112cb535cb&"
 tags: [Markdown, rumi, first]
 category: around-rumi
 draft: false
@@ -10,8 +10,13 @@ series: N2025
 ---
 # Về Enhì
 
-name: enhì
+name: enhì <br/>
 age:......
+
+
+
+
+
 
 
 enhì, was here.......
