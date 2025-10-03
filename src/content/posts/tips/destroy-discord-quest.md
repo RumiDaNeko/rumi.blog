@@ -194,7 +194,7 @@ Cài nó để hoàn thành được mấy quest cần chơi game!!! <br/>
 
 ## thành quả:
 
-<img width="1287" height="721" alt="result" src="https://github.com/user-attachments/assets/009d9ea1-6912-4167-a7ef-f55b2498538c" />
+<img width="1287" height="721" alt="result" src="https://cdn.discordapp.com/attachments/1268895412266340394/1423603045379342419/497011831-009d9ea1-6912-4167-a7ef-f55b2498538c.png?ex=68e0e927&is=68df97a7&hm=59a2f5b7c1f48050e28ad4f9e3fe19399348973e85af6f696f8b3c31a5b54ad2&" />
 
 
 Và Thế là xong, nhớ sử dụng cẩn thận không bị ban acc :)))
