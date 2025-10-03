@@ -1,6 +1,6 @@
 ---
 title: Blog mới của rumi
-published: 2025-10-25
+published: 2025-10-02
 description: Khai trương trang blog mới của rumiiii!!!!!!!!!
 image: "https://api.lxtu.cn/api.php?category=pcbz"
 tags: [Markdown, rumi, first]
