@@ -189,7 +189,7 @@ Cài nó để hoàn thành được mấy quest cần chơi game!!! <br/>
 }
 ```
  </details>
-* Phần lớn sẽ không cho chúng ta paste, nên phải nhập `allow pasting` trước khi copy paste
+* Phần lớn sẽ không cho chúng ta paste, nên phải nhập `allow pasting` trước khi copy paste <br/>
 * Nhớ nhận quest :)
 
 ## thành quả:
