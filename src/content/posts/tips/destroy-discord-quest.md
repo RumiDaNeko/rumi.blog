@@ -9,10 +9,12 @@ draft: false
 series: N2025
 ---
 
-#Cách để hoàn thành quest discord mà không cần phải làm gì, chỉ cần treo máy!
+# Cách để hoàn thành quest discord mà không cần phải làm gì, chỉ cần treo máy!
 
 Việc làm quest trong discord khá là tốn thời gian, nên sau 10p mày mò tui đã lên cái bài viết này để mọi người xem!!!<br/>
 Vào việc luôn này:
+
+
 B1: Cài đặt discord trên máy tính <br/>
 Cài nó để hoàn thành được mấy quest cần chơi game!!! <br/>
 *Note: nếu dùng discord bản stable (logo màu blurple) thì cần phải làm thêm những thao tác sau: <br/>
