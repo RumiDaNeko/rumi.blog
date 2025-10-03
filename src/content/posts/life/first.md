@@ -1,5 +1,5 @@
 ---
-title:"Blog mới của rumi"
+title: Blog mới của rumi
 published: 2025-10-25
 description: Khai trương trang blog mới của rumiiii!!!!!!!!!
 image: "https://api.lxtu.cn/api.php?category=pcbz"
