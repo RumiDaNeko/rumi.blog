@@ -6,7 +6,7 @@ image: "https://api.lxtu.cn/api.php?category=pcbz"
 tags: [Markdown, rumi, first]
 category: life
 draft: false
-series: 2025
+series: N2025
 ---
 
 # Blog mới?
