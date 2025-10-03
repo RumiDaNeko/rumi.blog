@@ -22,11 +22,11 @@ Cài nó để hoàn thành được mấy quest cần chơi game!!! <br/>
  <summary> Nhấn vào để mở rộng</summary>
  B1.1: mở %appdata%/discord/settings.json
  <br/>
- B1.2: thêm ' "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true, ' vào một entry trong bảng json <br/>
+ B1.2: thêm  "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,  vào một entry trong bảng json <br/>
  B1.3: Đóng vả khởi động lại discord <br/>
  </details>
 <br/>
- B2: Mở Console bằng cách nhấn CTRL + SHIFT + I (hoặc F12) trên trình duyệt và thêm doạn code sau:
+ B2: Mở Console bằng cách nhấn CTRL + SHIFT + I (hoặc F12 trên trình duyệt) và thêm doạn code sau:
  <details>
     <summary> Nhấn vào để mở rộng</summary>
 	
