@@ -40,7 +40,7 @@ export default defineConfig({
     defaultStrategy: "hover"
   },
   
-  site: "https://fuwari.oh1.top/",
+  site: "https://blog.harumi.io.vn/",
   base: "/",
   trailingSlash: "always",
 
