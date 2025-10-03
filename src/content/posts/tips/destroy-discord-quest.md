@@ -13,20 +13,22 @@ series: N2025
 
 Việc làm quest trong discord khá là tốn thời gian, nên sau 10p mày mò tui đã lên cái bài viết này để mọi người xem!!!<br/>
 Vào việc luôn này:
-B1: Cài đặt discord trên máy tính
-Cài nó để hoàn thành được mấy quest cần chơi game!!!
-*Note: nếu dùng discord bản stable (logo màu blurple) thì cần phải làm thêm những thao tác sau:
+B1: Cài đặt discord trên máy tính <br/>
+Cài nó để hoàn thành được mấy quest cần chơi game!!! <br/>
+*Note: nếu dùng discord bản stable (logo màu blurple) thì cần phải làm thêm những thao tác sau: <br/>
 <detail>
  <summary> Nhấn vào để mở rộng</summary>
  B1.1: mở `
  %appdata%/discord/settings.json
- `
- B1.2: thêm `"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,` vào một entry trong bảng json
- B1.3: Đóng vả khởi động lại discord
+ ` <br/>
+ B1.2: thêm `"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,` vào một entry trong bảng json <br/>
+ B1.3: Đóng vả khởi động lại discord <br/>
  </detail>
+<br/>
  B2: Mở Console bằng cách nhấn CTRL + SHIFT + I (hoặc F12) trên trình duyệt và thêm doạn code sau:
  <detail>
     <summary> Nhấn vào để mở rộng</summary>
+	
   ```js
 	 
 	delete window.$;
