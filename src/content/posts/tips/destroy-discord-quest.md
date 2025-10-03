@@ -27,25 +27,25 @@ Cài nó để hoàn thành được mấy quest cần chơi game!!!
  B2: Mở Console bằng cách nhấn CTRL + SHIFT + I (hoặc F12) trên trình duyệt và thêm doạn code sau:
  <detail>
     <summary> Nhấn vào để mở rộng</summary>
-   ```js
+  ```js
 	 
-  delete window.$;
-let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
-webpackChunkdiscord_app.pop();
-
-let ApplicationStreamingStore = Object.values(wpRequire.c).find(x => x?.exports?.Z?.__proto__?.getStreamerActiveStreamMetadata).exports.Z;
-let RunningGameStore = Object.values(wpRequire.c).find(x => x?.exports?.ZP?.getRunningGames).exports.ZP;
-let QuestsStore = Object.values(wpRequire.c).find(x => x?.exports?.Z?.__proto__?.getQuest).exports.Z;
-let ChannelStore = Object.values(wpRequire.c).find(x => x?.exports?.Z?.__proto__?.getAllThreadsForParent).exports.Z;
-let GuildChannelStore = Object.values(wpRequire.c).find(x => x?.exports?.ZP?.getSFWDefaultChannel).exports.ZP;
-let FluxDispatcher = Object.values(wpRequire.c).find(x => x?.exports?.Z?.__proto__?.flushWaitQueue).exports.Z;
-let api = Object.values(wpRequire.c).find(x => x?.exports?.tn?.get).exports.tn;
-
-let quest = [...QuestsStore.quests.values()].find(x => x.id !== "1412491570820812933" && x.userStatus?.enrolledAt && !x.userStatus?.completedAt && new Date(x.config.expiresAt).getTime() > Date.now())
-let isApp = typeof DiscordNative !== "undefined"
-if(!quest) {
-	console.log("You don't have any uncompleted quests!")
-} else {
+	delete window.$;
+	let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
+	webpackChunkdiscord_app.pop();
+	
+	let ApplicationStreamingStore = Object.values(wpRequire.c).find(x => x?.exports?.Z?.__proto__?.getStreamerActiveStreamMetadata).exports.Z;
+	let RunningGameStore = Object.values(wpRequire.c).find(x => x?.exports?.ZP?.getRunningGames).exports.ZP;
+	let QuestsStore = Object.values(wpRequire.c).find(x => x?.exports?.Z?.__proto__?.getQuest).exports.Z;
+	let ChannelStore = Object.values(wpRequire.c).find(x => x?.exports?.Z?.__proto__?.getAllThreadsForParent).exports.Z;
+	let GuildChannelStore = Object.values(wpRequire.c).find(x => x?.exports?.ZP?.getSFWDefaultChannel).exports.ZP;
+	let FluxDispatcher = Object.values(wpRequire.c).find(x => x?.exports?.Z?.__proto__?.flushWaitQueue).exports.Z;
+	let api = Object.values(wpRequire.c).find(x => x?.exports?.tn?.get).exports.tn;
+	
+	let quest = [...QuestsStore.quests.values()].find(x => x.id !== "1412491570820812933" && x.userStatus?.enrolledAt && !x.userStatus?.completedAt && new Date(x.config.expiresAt).getTime() > Date.now())
+	let isApp = typeof DiscordNative !== "undefined"
+	if(!quest) {
+		console.log("You don't have any uncompleted quests!")
+	} else {
 	const pid = Math.floor(Math.random() * 30000) + 1000
 	
 	const applicationId = quest.config.application.id
@@ -182,7 +182,7 @@ if(!quest) {
 		fn()
 	}
 }
-   ```
+```
  </detail>
 * Phần lớn sẽ không cho chúng ta paste, nên phải nhập `allow pasting` trước khi copy paste
 * Nhớ nhận quest :)
