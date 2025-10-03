@@ -17,7 +17,7 @@ tuổi: 19??? (cần xác minh thêm)
 
 trông khá lewd, nhưng mà tự nhận là "không lewd bằng ai đó", hmmmmmm
 rất hay bắt gặp đang đọc manga nhma có vẻ khá thích fanservice
-[dt thích fanservices?](https://cdn.discordapp.com/attachments/1268895412266340394/1423550213884219472/Screenshot_20251003_125803_Discord.jpg?ex=68e0b7f3&is=68df6673&hm=e803276559a5811d1afb9ff2243890a22e9a4a420e4000aa5c9884b0df572d49&)
+<img src="https://cdn.discordapp.com/attachments/1268895412266340394/1423550213884219472/Screenshot_20251003_125803_Discord.jpg?ex=68e0b7f3&is=68df6673&hm=e803276559a5811d1afb9ff2243890a22e9a4a420e4000aa5c9884b0df572d49&" alt="dt <3 fanservice?">
 
 
 hiện tại có thể nghĩ đến thế, phải theo dõi thêm
