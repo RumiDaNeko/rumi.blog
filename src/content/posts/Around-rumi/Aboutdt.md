@@ -4,7 +4,7 @@ published: 2025-10-03
 description: Về dt trong thế giới discord?
 image: ""
 tags: [Markdown, rumi, first]
-category: life
+category: around-rumi
 draft: false
 series: N2025
 ---
