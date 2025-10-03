@@ -9,7 +9,7 @@ draft: false
 series: N2025
 ---
 thedtvn, nêu ai chơi cùng rumi trong server folody thì cũng sẽ biết. ảnh là người tạo ra mbbank lib,chạy trên python.
-ảnh sống rất bựa, nhưng mà bựa
+ảnh sống rất bựa, nhưng mà bựa thế nào thì phải đoán....
 
 # Info
 tên đầy đủ: Nguyễn Dương Tuấn <br/>
