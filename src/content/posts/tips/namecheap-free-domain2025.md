@@ -21,7 +21,7 @@ trang: https://namecheap.com
     <summary> Nhấn vào để xem mã</summary>
 	
   ```
-	 FREEDOMAIN2025
+	 FREEDOMAIN25
 ```
  </details>
 * Bạn vẫn sẽ phải trả 0.2$ (khoảng 3k) do phí đăng kí của icann
