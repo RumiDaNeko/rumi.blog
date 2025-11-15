@@ -2,7 +2,7 @@
 title: Blog mới của rumi
 published: 2025-10-02
 description: Khai trương trang blog mới của rumiiii!!!!!!!!!
-image: "https://api.lxtu.cn/api.php?category=pcbz"
+image: "https://media.harumi.io.vn/IMG_0009.jpeg"
 tags: [Markdown, rumi, first]
 category: life
 draft: false
