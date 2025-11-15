@@ -2,7 +2,7 @@
 title: Chính thức ra mắt cloudcode
 published: 2025-10-11
 description: Khai trương dịch vụ hosting cloudcode bởi rumi
-image: "[https://api.lxtu.cn/api.php?category=pcbz](https://github.com/RumiDaNeko/img.rumi.public/blob/main/PfPNySWvbS4gIhibtGrYWTgdPOZYcY7xE2ZPGVEq.png?raw=true)"
+image: "https://media.harumi.io.vn/cloudcode-bg.png"
 tags: [Hosting, cloudcode, by rumi]
 category: life
 draft: false
